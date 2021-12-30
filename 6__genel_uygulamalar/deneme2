@@ -1,0 +1,3 @@
+# 5'in katı
+import math
+s=eval(input("tamsayı:")); print(math.floor(math.floor((s*2)/10)*5));
